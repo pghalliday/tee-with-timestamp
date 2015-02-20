@@ -11,7 +11,7 @@ Usage
 -----
 
 ```
-./tee-with-timestamp.sh PREFIX SUFFIX OPTIONS
+./tee-with-timestamp.sh PREFIX SUFFIX
 ```
 
 where:
